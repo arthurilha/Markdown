@@ -1,3 +1,3 @@
 # Markdwn
-** Nesse pdf você encontra tudo de como utilizar Markdow ** 🤙
+**Nesse pdf você encontra tudo de como utilizar Markdown** 🤙
  
